@@ -22,10 +22,10 @@ This project aims to decentralize the moderation process on social media platfor
 ## Screenshots:
 
 ### 1. Login Page
-![Login Page](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/login%20page.png)
+![Login Page](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/login%20page.png?raw=true)
 
 ### 2. Non-Flagged Content View
-![Non-Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Non-Flagged.png)
+![Non-Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Non-Flagged.png?raw=true)
 
 ### 3. Flagged Content Voting
-![Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Flagged.png)
+![Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Flagged.png?raw=true)
