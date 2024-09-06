@@ -1,4 +1,5 @@
 # Instagram-Clone
+
 A project to decentralize content moderation using MetaMask. Users logged in via MetaMask can vote on AI-flagged content and earn rewards if their vote matches the majority. The front end is built with HTML, CSS, and JavaScript, featuring login, account management, and access control for flagged content.
 
 # Decentralized Social Media Content Voting
@@ -17,3 +18,14 @@ This project aims to decentralize the moderation process on social media platfor
 2. **Voting Mechanism**: Logged-in MetaMask users can vote on whether the content should remain or be removed.
 3. **Incentives**: Users earn rewards for voting in line with the majority, ensuring the community's voice is heard.
 4. **Access Control**: Only users authenticated via MetaMask have access to the voting system, while regular users can still browse other features.
+
+## Screenshots:
+
+### 1. Login Page
+![Login Page](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/login%20page.png)
+
+### 2. Non-Flagged Content View
+![Non-Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Non-Flagged.png)
+
+### 3. Flagged Content Voting
+![Flagged Content](https://github.com/Luvish-Arora/Instagram-Clone/blob/main/Flagged.png)
